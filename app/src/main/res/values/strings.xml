@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">serba serbu</string>
+
+    //Headings
+    <string name="heading_one">Now you can choose  nutrition any time right from your phone</string>
+    <string name="heading_two">Just 1 button, invoice and can beactivated and enjoyed for your product</string>
+    <string name="heading_three">We are maintain safty and we keepclean product and reach your hands</string>
+
+    //Description
+    <string name="desc_one">Now you can choose  nutrition any time right from your phone</string>
+    <string name="desc_two">Just 1 button, invoice and can beactivated and enjoyed for your product</string>
+    <string name="desc_three">We are maintain safty and we keepclean product and reach your hands</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="add_image">Add Image</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="no_handphone">No Handphone</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="daftar">Daftar</string>
+</resources>

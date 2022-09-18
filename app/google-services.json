@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223312373087",
+    "project_id": "serba-serbu",
+    "storage_bucket": "serba-serbu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223312373087:android:83b54d958ac907602f02ea",
+        "android_client_info": {
+          "package_name": "com.kinikumuda.serbaserbu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223312373087-8o05qfeoctgbbqr94m5amrg4gil46uau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3KfFpuYfBsIpaBsQEjB-X2Ze6RumqHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223312373087-8o05qfeoctgbbqr94m5amrg4gil46uau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
